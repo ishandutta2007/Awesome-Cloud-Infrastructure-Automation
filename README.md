@@ -53,9 +53,9 @@ Below is a comparative breakdown of top commercial cloud infrastructure automati
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore production-grade open-source tools for cloud provisioning, IaC execution, multi-cluster management, and configuration automation. Sorted by **GitHub Star Count** (descending):
+Explore production-grade open-source tools for cloud provisioning, IaC execution, multi-cluster management, and configuration automation. Sorted by **GitHub Stars_Count** (descending):
 
-| Open-Source Project | Description | GitHub Stars |
+| Open-Source Project | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | 🛠️ **[Ansible](https://github.com/ansible/ansible)** | Foundational IT and cloud infrastructure automation platform for configuration management and application deployment. | [<img src="https://img.shields.io/github/stars/ansible/ansible?style=social&color=white" alt="Ansible Stars"/>](https://github.com/ansible/ansible/stargazers) |
 | 🏗️ **[HashiCorp Terraform](https://github.com/hashicorp/terraform)** | Original declarative Infrastructure-as-Code tool for provisioning cloud and on-premises infrastructure. | [<img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social&color=white" alt="Terraform Stars"/>](https://github.com/hashicorp/terraform/stargazers) |
